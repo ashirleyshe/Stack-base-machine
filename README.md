@@ -23,35 +23,35 @@ load 2
 sub  
 load 5  
 mod    
-**Sample Output 1:  
+**Sample Output 1:**  
 0  
-Explanation 1:  
-5 % (2-1) = 0**  
+**Explanation 1:**  
+5 % (2-1) = 0  
 
 
-**Sample Input 2:  
+**Sample Input 2:**  
 load 3  
 load 4  
 inc  
-inc**  
-**Sample Output 2:  
+inc  
+**Sample Output 2:**  
 Invalid format  
-Explanation 2:  
+**Explanation 2:**  
 If after finish the program, there 
 are more than 1 numbers in the
-stack it will be consider invalid.**  
+stack it will be consider invalid.  
 
-**Sample Input 3:  
+**Sample Input 3:**  
 load 1  
 load 1  
 add  
 sub  
-Sample Output 3:  
+**Sample Output 3:**  
 Invalid format  
-Explanation 3:  
-No enough operands in stack to perform sub.**  
+**Explanation 3:**  
+No enough operands in stack to perform sub.  
 
-**Sample Input 4:  
+**Sample Input 4:**  
 load 1  
 inc  
 inc  
@@ -65,5 +65,5 @@ dec
 dec  
 mul  
 inc  
-Sample Output 4:  
-21**
+**Sample Output 4:**  
+21
