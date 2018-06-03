@@ -17,12 +17,12 @@ stack then perform increased by 1, decreased by 1, then push back
 the result, “load <number>” which will push a constant <number> on
 the top of the stack.
 
-**Sample Input 1:  
+**Sample Input 1:**  
 load 1  
 load 2  
 sub  
 load 5  
-mod**  
+mod    
 **Sample Output 1:  
 0  
 Explanation 1:  
